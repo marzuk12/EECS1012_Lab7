@@ -1,1 +1,1 @@
-# EECS1022_MCalcPro
+# EECS1012_Lab7
